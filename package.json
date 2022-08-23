@@ -1,0 +1,22 @@
+{
+  "name": "tasks",
+  "version": "1.0.0",
+  "description": "JS tasks, unit testing, git flow",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm jest"
+  },
+  "keywords": [
+    "JS",
+    "tasks",
+    "unit",
+    "testing",
+    "git",
+    "flow"
+  ],
+  "author": "Arthur Splavskiy",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
