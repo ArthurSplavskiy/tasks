@@ -4,7 +4,7 @@
   "description": "JS tasks, unit testing, git flow",
   "main": "main.js",
   "scripts": {
-    "test": "npm jest"
+    "test": "jest"
   },
   "keywords": [
     "JS",
